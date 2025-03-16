@@ -37,13 +37,3 @@ Soy un **desarrollador de software y sistemas web** con experiencia en el diseñ
 ---
 
 ✨ *Este README es una forma de mostrar quién soy como desarrollador. ¡Gracias por visitar mi perfil!*  
-
-<style>
-    h1, h2, h3 {
-        font-family: 'Arial', sans-serif;
-        color: #333;
-    }
-    body {
-        background-color: #f0f0f0;
-    }
-</style>
