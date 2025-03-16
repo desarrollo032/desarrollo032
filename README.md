@@ -1,6 +1,6 @@
-# ![Header]([])
+# ![Header](<img src="https://i.ibb.co/LXYWtvdN/hack.png" alt="hack" border="0">)
 
-<img src="https://i.ibb.co/LXYWtvdN/hack.png" alt="hack" border="0">
+
 # 👋 ¡Hola! Soy @desarrollo032
 
 Soy un **desarrollador de software y sistemas web** con experiencia en el diseño y desarrollo de aplicaciones móviles, páginas web y sistemas. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo y crear soluciones innovadoras. 🚀  
