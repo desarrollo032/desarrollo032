@@ -1,39 +1,56 @@
 # ![Header](https://i.ibb.co/ycd1yVF4/hack.png)
 
-# 👋 ¡Hola! Soy @desarrollo032
+<h1 align="center">👋 ¡Hola! Soy <a href="https://github.com/desarrollo032">@desarrollo032</a></h1>
 
-Soy un **desarrollador de software y sistemas web** con experiencia en el diseño y desarrollo de aplicaciones móviles, páginas web y sistemas. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo y crear soluciones innovadoras. 🚀  
-
----
-
-## 🌟 Acerca de mí  
-- 👀 **Intereses:** Desarrollo Full Stack, bases de datos, tecnologías frontend y backend, y aprendizaje continuo.  
-- 🌱 **Actualmente aprendiendo:** Next.js, Supabase y diseño escalable de bases de datos.  
-- 💼 **Experiencia:** Desarrollo de proyectos con tecnologías modernas como Next.js, Supabase, y despliegue en plataformas como Netlify.  
-- 💞️ **Colaboro en:** Proyectos web y sistemas escalables. ¡Siempre estoy abierto a nuevas ideas y trabajo en equipo!  
-- 🎓 **Educación:** Instituto de Educación Superior Tecnológico Público de las Fuerzas Armadas.
+<p align="center">
+  <b>Desarrollador de software & sistemas web</b><br>
+  💻 Diseño y desarrollo de aplicaciones móviles, páginas web y sistemas.<br>
+  🚀 Apasionado por la innovación y el aprendizaje continuo.
+</p>
 
 ---
 
-## 🛠️ Habilidades
-- **Lenguajes:** JavaScript, HTML, CSS, SQL  
-- **Frameworks/Librerías:** Next.js, React.js  
-- **Backend:** Supabase, APIs REST  
-- **Herramientas:** Git, VSCode, Netlify  
+## 🌟 Sobre mí
+
+- 👀 &nbsp; <b>Intereses:</b> Full Stack, bases de datos, frontend & backend, IA, automatización.
+- 🌱 &nbsp; <b>Aprendiendo:</b> Next.js, Supabase, diseño escalable de bases de datos.
+- 💼 &nbsp; <b>Experiencia:</b> Proyectos con tecnologías modernas: Next.js, Supabase, Netlify.
+- 🤝 &nbsp; <b>Colaboro en:</b> Desarrollo web y sistemas escalables. ¡Abierto a nuevas ideas!
+- 🎓 &nbsp; <b>Educación:</b> Instituto de Educación Superior Tecnológico Público de las Fuerzas Armadas.
 
 ---
 
-## 📫 Cómo contactarme  
-- 📧 Email: desarrollo032@example.com *(Reemplaza con tu correo real)*  
-- 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/) *(Reemplaza con el enlace a tu perfil)*  
-- 🌐 Portfolio: [Mi sitio web](https://tu-portafolio.com) *(Reemplaza con el enlace a tu portafolio)*  
+## 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,supabase,git,netlify,vscode" />
+</p>
+
+- **Lenguajes:** JavaScript, HTML, CSS, SQL
+- **Frameworks/Librerías:** Next.js, React.js
+- **Backend:** Supabase, APIs REST
+- **Herramientas:** Git, VSCode, Netlify
 
 ---
 
-## 📊 Estadísticas de GitHub  
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=desarrollo032&show_icons=true&theme=radical)](https://github.com/desarrollo032)  
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=desarrollo032&layout=compact&theme=radical)](https://github.com/desarrollo032)  
+## 📫 Contacto
+
+- 📧 **Email:** desarrollo032@example.com <sub>(Reemplaza con tu correo real)</sub>
+- 💼 **LinkedIn:** [Tu perfil](https://www.linkedin.com/in/tu-perfil/) <sub>(Cambia el enlace)</sub>
+- 🌐 **Portfolio:** [Mi sitio web](https://tu-portafolio.com) <sub>(Cambia el enlace)</sub>
 
 ---
 
-✨ *Este README es una forma de mostrar quién soy como desarrollador. ¡Gracias por visitar mi perfil!*  
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=desarrollo032&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desarrollo032&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desarrollo032&theme=radical" alt="Profile Details" />
+</p>
+
+---
+
+<p align="center">
+  <b>¡Gracias por visitar mi perfil! 🚀</b>
+</p>
